@@ -22,6 +22,6 @@ Backend Highlights
 
 
 Technologies Used
-Frontend: React.js
-Backend: Node.js, Express.js, MongoDB
-Payment Gateways: Razorpay
+* Frontend: React.js
+* Backend: Node.js, Express.js, MongoDB
+* Payment Gateways: Razorpay
