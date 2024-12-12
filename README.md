@@ -7,7 +7,7 @@ Features
 User Features
 * Explore products with filtering and sorting options.
 * Add products to the cart with size/variant selection.
-* Place orders by providing a delivery address.
+* Place orders by providing a delivery address. 
 * Choose a payment method: Cash on Delivery (COD) or Online Payment Razorpay.
 
 Admin Features
